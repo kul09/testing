@@ -1,0 +1,11 @@
+{
+  "name": "chatbot-widget",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "serve public",
+    "start": "serve public"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
